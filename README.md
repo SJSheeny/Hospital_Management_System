@@ -43,10 +43,10 @@ This project demonstrates the following concepts:
 
 ### Compilation
 
-Save the source code as `hospital_management.cpp` and run:
+Save the source code as `hospital_management_system.cpp` and run:
 
 ```bash
-g++ hospital_management.cpp -o hospital_management
+g++ hospital_management_system.cpp -o hospital_management
 ```
 
 ### Run the Program
@@ -54,13 +54,13 @@ g++ hospital_management.cpp -o hospital_management
 **Windows:**
 
 ```bash
-hospital_management.exe
+Hospital_Management_System.exe
 ```
 
 **Linux/macOS:**
 
 ```bash
-./hospital_management
+./Hospital_Management_System
 ```
 
 ## How to Use
